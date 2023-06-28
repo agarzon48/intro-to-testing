@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agarzon48/intro-to-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agarzon48/intro-to-testing/issues"
+  },
+  "homepage": "https://github.com/agarzon48/intro-to-testing#readme",
+  "devDependencies": {
+    "vitest": "^0.32.2"
+  }
+}
