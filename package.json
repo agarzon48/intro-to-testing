@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "dom-test": "vitest --environment happy-dom"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/agarzon48/intro-to-testing#readme",
   "devDependencies": {
+    "@testing-library/user-event": "^14.4.3",
+    "happy-dom": "^10.5.2",
     "vitest": "^0.32.2"
+  },
+  "dependencies": {
+    "@testing-library/dom": "^9.3.1"
   }
 }
