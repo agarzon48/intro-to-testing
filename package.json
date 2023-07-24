@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest",
-    "dom-test": "vitest --environment happy-dom"
+    "test-dom": "vitest --environment happy-dom"
   },
   "repository": {
     "type": "git",
