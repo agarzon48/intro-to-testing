@@ -1,3 +1,4 @@
+// @vitest-environment happy-dom
 import fs from "fs";
 import path from "path";
 

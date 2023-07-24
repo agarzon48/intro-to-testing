@@ -13,7 +13,7 @@ npm install
 2. Si quieres lanzar tests en el entorno de node (porque no necesitas el DOM):
 
 ```bash
-npm run test
+npm test
 ```
 
 3. Si quieres lanzar tests en el entorno happy-dom (porque necesitas el DOM):
